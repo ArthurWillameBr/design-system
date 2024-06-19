@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "@arthur-ui/ts-config": "*",
-    "@arthu-ui/eslint-config": "*",
+    "@arthur-ui/eslint-config": "*",
     "tsup": "^8.1.0",
     "typescript": "^5.4.5"
   }
