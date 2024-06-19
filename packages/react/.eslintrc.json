@@ -1,0 +1,3 @@
+{
+    "extends": "@arthur-ui/eslint-config"
+}
