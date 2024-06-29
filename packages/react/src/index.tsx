@@ -1,6 +1,5 @@
+import { styled } from "./styles";
 
-export function App() {
-    return (
-        <h1>Hello, World</h1>
-    )
-}
+export const Button = styled("button", {
+    fontfamily: "$default"
+})
